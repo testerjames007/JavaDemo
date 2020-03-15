@@ -1,9 +1,12 @@
 package test;
-
+/* Author - Armin Pashankar
+   Created Date - 15-03-2020
+ * */
 public class JavaExample {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		//
 		
 		//2nd largest num in array
 				int arr[] = {78,120,98,80,96,72,19,100};
